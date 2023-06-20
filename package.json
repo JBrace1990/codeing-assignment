@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "memcached-promise": "^1.0.1"
+  }
+}
